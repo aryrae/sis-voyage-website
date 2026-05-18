@@ -149,7 +149,7 @@ export default function HomePage() {
               />
               <Reason
                 title="Bilingual EN / FR, native to both."
-                body="Ary Ouedraogo, our founder, is Burkinabè-American — fluent in French and English. Useful if your trip touches Francophone Africa, France, Switzerland, Quebec, or anywhere your vendors don&apos;t speak your language."
+                body="Ary, our founder, is Burkinabè-American — fluent in French and English. Useful if your trip touches Francophone Africa, France, Switzerland, Quebec, or anywhere your vendors don&apos;t speak your language."
               />
               <Reason
                 title="Veteran-owned, with the discipline that implies."
@@ -184,7 +184,7 @@ export default function HomePage() {
             <div className="flex items-center gap-3 pt-4 border-t border-[var(--color-ink-900)]/8">
               <div className="w-10 h-10 rounded-full bg-[var(--color-amber-brand)]/20 flex items-center justify-center text-[var(--color-amber-deep)] font-semibold">A</div>
               <div>
-                <div className="text-sm font-semibold text-[var(--color-ink-900)]">Ary Ouedraogo</div>
+                <div className="text-sm font-semibold text-[var(--color-ink-900)]">Ary</div>
                 <div className="text-xs text-[var(--color-ink-500)]">Founder · Fora Travel Advisor · IATA</div>
               </div>
             </div>

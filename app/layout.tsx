@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     "Fora travel advisor",
     "veteran-owned travel",
   ].join(", "),
-  authors: [{ name: "Ary Ouedraogo" }],
+  authors: [{ name: "Ary" }],
   openGraph: {
     title: "SIS Voyage — Travel done with care",
     description:
