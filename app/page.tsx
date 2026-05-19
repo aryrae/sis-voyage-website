@@ -36,7 +36,7 @@ export default function HomePage() {
               Fora-credentialed · IATA · Combat-disabled veteran-owned (SDVOSB) · Bilingual English / French
             </div>
             <h1 className="font-[var(--font-display)] text-4xl sm:text-5xl lg:text-6xl leading-tight text-[var(--color-ink-900)]">
-              Travel done with care, for the trips that actually matter.
+              Travel done with care. And discipline.
             </h1>
             <p className="text-base sm:text-lg text-[var(--color-ink-700)] mt-6 leading-relaxed max-w-2xl">
               SIS Voyage is a full-service travel agency. From solo trips to large group
