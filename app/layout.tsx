@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "SIS Voyage — Group, mission, heritage & bespoke travel",
   description:
-    "SIS Voyage is a full-service travel agency specialising in group, mission, heritage, wedding, corporate and bespoke travel — bilingual EN/FR, veteran-owned, Fora-credentialed.",
+    "SIS Voyage is a full-service travel agency specialising in group, mission, heritage, wedding, corporate and bespoke travel — bilingual EN/FR, combat-disabled veteran-owned (SDVOSB), Fora-credentialed.",
   keywords: [
     "travel agency",
     "Christian travel",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     "Burkina Faso travel",
     "Francophone Africa travel",
     "Fora travel advisor",
-    "veteran-owned travel",
+    "combat-disabled veteran-owned (SDVOSB) travel",
   ].join(", "),
   authors: [{ name: "Ary" }],
   openGraph: {
