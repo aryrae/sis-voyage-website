@@ -39,9 +39,9 @@ export default function HomePage() {
               Travel done with care, for the trips that actually matter.
             </h1>
             <p className="text-base sm:text-lg text-[var(--color-ink-700)] mt-6 leading-relaxed max-w-2xl">
-              SIS Voyage is a full-service travel agency. We plan church group pilgrimages, mission
-              trips, destination weddings, corporate offsites, honeymoons, family safaris, and the
-              once-in-a-lifetime trips.
+              SIS Voyage is a full-service travel agency. From solo trips to 50-person church
+              pilgrimages — we plan mission trips, destination weddings, corporate offsites,
+              honeymoons, family safaris, and the once-in-a-lifetime trips.
             </p>
             <div className="flex flex-wrap gap-3 mt-8 items-center">
               <a href="#inquire" className="cta-primary rounded-xl px-6 py-3">Start planning your trip</a>
