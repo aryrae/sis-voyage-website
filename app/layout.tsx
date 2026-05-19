@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "SIS Voyage — Group, mission, heritage & bespoke travel",
   description:
-    "SIS Voyage is a full-service travel agency specialising in group, mission, heritage, wedding, corporate and bespoke travel — bilingual EN/FR, combat-disabled veteran-owned (SDVOSB), Fora-credentialed.",
+    "SIS Voyage is a full-service travel agency specialising in group, mission, heritage, wedding, corporate and bespoke travel — bilingual English/French, combat-disabled veteran-owned (SDVOSB), Fora-credentialed.",
   keywords: [
     "travel agency",
     "Christian travel",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "SIS Voyage — Travel done with care",
     description:
-      "Group · mission · heritage · weddings · corporate · honeymoons · bespoke. Bilingual EN/FR. Veteran-owned. Fora-credentialed.",
+      "Group · mission · heritage · weddings · corporate · honeymoons · bespoke. Bilingual English/French. Combat-disabled veteran-owned (SDVOSB). Fora-credentialed.",
     type: "website",
     locale: "en_US",
     siteName: "SIS Voyage",

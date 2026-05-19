@@ -14,7 +14,7 @@ export default function HomePage() {
             </div>
             <div>
               <div className="font-[var(--font-display)] text-lg leading-none text-[var(--color-ink-900)]">SIS Voyage</div>
-              <div className="text-[11px] text-[var(--color-ink-500)] tracking-wide">Travel done with care · EN / FR</div>
+              <div className="text-[11px] text-[var(--color-ink-500)] tracking-wide">Travel done with care · English / French</div>
             </div>
           </a>
           <div className="hidden md:flex items-center gap-5 ml-auto text-sm text-[var(--color-ink-700)]">
@@ -33,7 +33,7 @@ export default function HomePage() {
           <div className="lg:col-span-3">
             <div className="inline-flex items-center gap-2 glass rounded-full px-3 py-1 text-xs text-[var(--color-ink-700)] mb-5">
               <span className="w-1.5 h-1.5 rounded-full bg-[var(--color-sage)]" />
-              Fora-credentialed · IATA · Combat-disabled veteran-owned (SDVOSB) · Bilingual EN / FR
+              Fora-credentialed · IATA · Combat-disabled veteran-owned (SDVOSB) · Bilingual English / French
             </div>
             <h1 className="font-[var(--font-display)] text-4xl sm:text-5xl lg:text-6xl leading-tight text-[var(--color-ink-900)]">
               Travel done with care, for the trips that actually matter.
@@ -148,7 +148,7 @@ export default function HomePage() {
                 body="One point of contact for your entire trip. We answer the email; we sort the problem; we&apos;re reachable when something needs fixing at midnight in Tel Aviv."
               />
               <Reason
-                title="Bilingual EN / FR, native to both."
+                title="Bilingual English / French, native to both."
                 body="Ary, our founder, is Burkinabè-American — fluent in French and English. Useful if your trip touches Francophone Africa, France, Switzerland, Quebec, or anywhere your vendors don&apos;t speak your language."
               />
               <Reason
@@ -216,7 +216,7 @@ export default function HomePage() {
           />
           <Faq
             q="Do you serve clients outside the US?"
-            a="Yes. We&apos;re Texas-based but our clients are anywhere — including France, Quebec, and Francophone Africa. Bilingual EN/FR coordination is one of our differentiators."
+            a="Yes. We&apos;re Texas-based but our clients are anywhere — including France, Quebec, and Francophone Africa. Bilingual English/French coordination is one of our differentiators."
           />
           <Faq
             q="What about Burkina Faso specifically?"
@@ -267,7 +267,7 @@ export default function HomePage() {
               </svg>
               Message on WhatsApp
             </a>
-            <div className="text-[var(--color-ink-500)] mt-2 text-xs">EN / FR · Reply within one business day</div>
+            <div className="text-[var(--color-ink-500)] mt-2 text-xs">English / French · Reply within one business day</div>
           </div>
           <div>
             <div className="text-xs uppercase tracking-wider text-[var(--color-amber-deep)] font-semibold mb-2">Specialties</div>
