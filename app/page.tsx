@@ -33,7 +33,7 @@ export default function HomePage() {
           <div className="lg:col-span-3">
             <div className="inline-flex items-center gap-2 glass rounded-full px-3 py-1 text-xs text-[var(--color-ink-700)] mb-5">
               <span className="w-1.5 h-1.5 rounded-full bg-[var(--color-sage)]" />
-              Fora-credentialed · IATA · Combat-disabled veteran-owned · Bilingual EN / FR
+              Fora-credentialed · IATA · Combat-disabled veteran-owned (SDVOSB) · Bilingual EN / FR
             </div>
             <h1 className="font-[var(--font-display)] text-4xl sm:text-5xl lg:text-6xl leading-tight text-[var(--color-ink-900)]">
               Travel done with care, for the trips that actually matter.
