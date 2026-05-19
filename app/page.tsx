@@ -33,7 +33,7 @@ export default function HomePage() {
           <div className="lg:col-span-3">
             <div className="inline-flex items-center gap-2 glass rounded-full px-3 py-1 text-xs text-[var(--color-ink-700)] mb-5">
               <span className="w-1.5 h-1.5 rounded-full bg-[var(--color-sage)]" />
-              Fora-credentialed · IATA · Combat-disabled combat-disabled veteran-owned · Bilingual EN / FR
+              Fora-credentialed · IATA · Combat-disabled veteran-owned · Bilingual EN / FR
             </div>
             <h1 className="font-[var(--font-display)] text-4xl sm:text-5xl lg:text-6xl leading-tight text-[var(--color-ink-900)]">
               Travel done with care, for the trips that actually matter.
@@ -152,7 +152,7 @@ export default function HomePage() {
                 body="Ary, our founder, is Burkinabè-American — fluent in French and English. Useful if your trip touches Francophone Africa, France, Switzerland, Quebec, or anywhere your vendors don&apos;t speak your language."
               />
               <Reason
-                title="Combat-disabled combat-disabled veteran-owned, with the discipline that implies."
+                title="Combat-disabled veteran-owned, with the discipline that implies."
                 body="US Army veteran background. When you need things to actually happen on schedule with people you don&apos;t know in places you&apos;ve never been, that matters."
               />
               <Reason
@@ -245,7 +245,7 @@ export default function HomePage() {
           <div>
             <div className="font-[var(--font-display)] text-xl text-[var(--color-ink-900)]">SIS Voyage</div>
             <p className="text-[var(--color-ink-700)] mt-2 leading-relaxed">
-              A division of SIS LLC · Round Rock, Texas · Combat-disabled combat-disabled veteran-owned · IATA-accredited via Fora
+              A division of SIS LLC · Round Rock, Texas · Combat-disabled veteran-owned · IATA-accredited via Fora
             </p>
           </div>
           <div>
