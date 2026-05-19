@@ -41,8 +41,8 @@ export default function HomePage() {
             <p className="text-base sm:text-lg text-[var(--color-ink-700)] mt-6 leading-relaxed max-w-2xl">
               SIS Voyage is a full-service travel agency. We plan church group pilgrimages, mission
               trips, destination weddings, corporate offsites, honeymoons, family safaris, and the
-              once-in-a-lifetime trips — with particular depth in Christian heritage travel,
-              Francophone West Africa, and bespoke group logistics.
+              once-in-a-lifetime trips — with particular depth in Francophone West Africa and
+              bespoke group logistics.
             </p>
             <div className="flex flex-wrap gap-3 mt-8 items-center">
               <a href="#inquire" className="cta-primary rounded-xl px-6 py-3">Start planning your trip</a>
